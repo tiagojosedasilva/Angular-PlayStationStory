@@ -1,0 +1,12 @@
+.menu-bar__container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    z-index: 999;
+    background-color: #ffffff;
+}
+
+a{
+    text-transform: uppercase
+}
